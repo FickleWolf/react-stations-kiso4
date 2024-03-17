@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-stations-kiso4/static/css/main.f855e6bc.css",
+    "main.js": "/react-stations-kiso4/static/js/main.50748045.js",
+    "static/js/453.06f98107.chunk.js": "/react-stations-kiso4/static/js/453.06f98107.chunk.js",
+    "index.html": "/react-stations-kiso4/index.html",
+    "main.f855e6bc.css.map": "/react-stations-kiso4/static/css/main.f855e6bc.css.map",
+    "main.50748045.js.map": "/react-stations-kiso4/static/js/main.50748045.js.map",
+    "453.06f98107.chunk.js.map": "/react-stations-kiso4/static/js/453.06f98107.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.50748045.js"
+  ]
+}
