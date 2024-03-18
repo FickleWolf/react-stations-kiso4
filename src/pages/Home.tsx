@@ -5,7 +5,7 @@ function Home() {
     <div className="home">
       <div className="home-body">
         <h1 className='home__title'>Profile</h1>
-        <img className='home__img' src="" alt='profile-image' />
+        <img src={`${process.env.PUBLIC_URL}/images/profile.png`} className='home__img' alt='profile-image' />
         <h2 className='home__name'>亀山 和希</h2>
         <p className='home__text'>React.js勉強中</p>
         <h3 className='home__sub-title'>自己紹介</h3>
