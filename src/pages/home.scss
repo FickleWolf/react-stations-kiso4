@@ -1,0 +1,46 @@
+.home {
+    width: 100vw;
+    height: 100vh;
+    padding: 16px;
+    box-sizing: border-box;
+    background-color: #222222;
+
+    &-body {
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        max-width: 640px;
+        padding: 32px;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 8px;
+        background-color: #ddd;
+    }
+
+    &__title {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    &__img {
+        width: 128px;
+        height: 128px;
+        border-radius: 100%;
+    }
+
+    &__name {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    &__text {
+        font-size: 15px;
+    }
+
+    &__sub-title {
+        font-size: 16px;
+        font-weight: 600;
+    }
+}
