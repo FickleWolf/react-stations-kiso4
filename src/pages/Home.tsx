@@ -1,6 +1,6 @@
 import './home.scss'
 
-function Home() {
+function Home(): JSX.Element {
   return (
     <div className="home">
       <div className="home-body">
