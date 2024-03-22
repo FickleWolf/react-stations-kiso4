@@ -1,0 +1,41 @@
+.home {
+  width: 100vw;
+  height: 100vh;
+  padding: 16px;
+  box-sizing: border-box;
+  background-color: #222222;
+}
+.home-body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 640px;
+  padding: 32px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+  background-color: #ddd;
+}
+.home__title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.home__img {
+  width: 128px;
+  height: 128px;
+  border-radius: 100%;
+  background-color: #3d3d3d;
+}
+.home__name {
+  font-size: 18px;
+  font-weight: 600;
+}
+.home__text {
+  font-size: 15px;
+}
+.home__sub-title {
+  font-size: 16px;
+  font-weight: 600;
+}
