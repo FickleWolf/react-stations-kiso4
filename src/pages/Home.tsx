@@ -7,9 +7,9 @@ function Home(): JSX.Element {
       <div className="home-body">
         <h1 className="home__title">Profile</h1>
         <img
-          src="/images/profile.png"
+          src={`${process.env.PUBLIC_URL}/images/profile.png`}
           className="home__img"
-          alt="profile-image"
+          alt="プロフィール画像"
         />
         <h2 className="home__name">亀山 和希</h2>
         <p className="home__text">React.js勉強中</p>
